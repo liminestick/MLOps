@@ -48,11 +48,11 @@ Pipeline completed successfully!
 
 ```shell
 Датасет CIFAR-10 успешно загружен.
-Epoch 1, Loss: 0.5432
-Epoch 2, Loss: 0.4342
-Epoch 3, Loss: 0.3765
-Epoch 4, Loss: 0.2891
-Epoch 5, Loss: 0.1237
+Epoch 1, Loss: 0.5696378521945166
+Epoch 2, Loss: 0.326714326734738
+Epoch 3, Loss: 0.227498026783852
+Epoch 4, Loss: 0.16253975077587016
+Epoch 5, Loss: 0.12570661185976223
 Обучение завершено.
 Модель сохранена.
 Accuracy: 88.74%
